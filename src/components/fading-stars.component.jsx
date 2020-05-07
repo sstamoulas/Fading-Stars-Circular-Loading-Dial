@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const CustomLoader = () => {
+const FadingStars = () => {
   const [opacity, setOpacity] = useState(0);
 
   useEffect(() => {
@@ -51,4 +51,4 @@ const CustomLoader = () => {
   );
 }
 
-export default CustomLoader;
+export default FadingStars;
