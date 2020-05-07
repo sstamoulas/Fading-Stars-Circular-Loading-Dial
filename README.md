@@ -7,4 +7,4 @@
 
   ## Fading Circles
   
-  ![fading-circles-loading-dial](spinny-fading-circles.gif)
+  ![fading-circles-loading-dial](demo/spinny-fading-circles.gif)
