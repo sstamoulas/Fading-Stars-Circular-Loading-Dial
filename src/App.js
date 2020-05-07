@@ -1,11 +1,11 @@
 import React from 'react';
 
-import CustomLoader from './components/custom-loader/custom-loader.component';
+import FadingStars from './components/fading-stars.component';
 
 function App() {
   return (
     <div className="App">
-      <CustomLoader />
+      <FadingStars />
     </div>
   );
 }
